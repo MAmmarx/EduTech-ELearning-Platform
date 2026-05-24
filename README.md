@@ -1,4 +1,4 @@
-\# EduTech: Multi-Tiered E-Learning Platform
+# EduTech: Multi-Tiered E-Learning Platform
 
 A performance-driven, responsive multi-tiered E-Learning platform designed to deliver granular learning paths and structural productivity spaces. Built using **Vue 3** and **Vite**, this application leverages a modular frontend architecture to separate student dashboard tracking, content curation channels, subscription management gates, and interaction surfaces cleanly.
 
